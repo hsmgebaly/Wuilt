@@ -14,13 +14,13 @@ html {
 /* Bold */
 @font-face {
   font-family: "Somarsans";
-  src: url(../font/Somar/SomarSans-Bold.ttf) format("truetype");
+  src: url(Font/Somar/SomarSans-Bold.ttf) format("truetype");
 }
 
 /* Regular */
 @font-face {
   font-family: "Somarsans";
-  src: url(../font/Somar/SomarSans-Regular.ttf) format("truetype");
+  src: url(Font/Somar/SomarSans-Regular.ttf) format("truetype");
 }
 
 body {
